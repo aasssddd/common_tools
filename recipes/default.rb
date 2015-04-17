@@ -8,4 +8,4 @@
 #
 include_recipe 'vim'
 include_recipe 'mlocate'
-include_recipe 'iftop'
+# include_recipe 'iftop'

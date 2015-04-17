@@ -9,4 +9,4 @@ version          '0.1.0'
 
 depends 'vim', '~> 1.1.2'
 depends 'mlocate', '~> 0.3.2'
-depends 'iftop', '~> 0.0.1'
+# depends 'iftop', '~> 0.0.1'
