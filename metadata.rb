@@ -9,4 +9,6 @@ version          '0.1.0'
 
 depends 'vim', '~> 1.1.2'
 depends 'mlocate', '~> 0.3.2'
-# depends 'iftop', '~> 0.0.1'
+depends 'yum-epel', '~> 0.6.0'
+depends 'yum-elrepo', '~> 0.2.0'
+depends 'iftop', '~> 0.0.1'
